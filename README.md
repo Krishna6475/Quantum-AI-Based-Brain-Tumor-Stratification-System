@@ -39,9 +39,9 @@ To integrate quantum computing with classical deep learning to improve the effic
 
 ---
 
-## 📈 Model Evaluation
+# 📈 Model Evaluation
 
-# Evaluation includes:
+## Evaluation includes:
 
 - Training vs Testing Accuracy/Loss plots  
 - Confusion Matrix  
